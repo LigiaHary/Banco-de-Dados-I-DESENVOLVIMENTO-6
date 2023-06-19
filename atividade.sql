@@ -1,0 +1,1 @@
+códigos SQL para criar um banco de dados chamado ESCOLA
